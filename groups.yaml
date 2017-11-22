@@ -1,0 +1,12 @@
+Pool:
+  entities:
+    - sensor.pool_pump
+    - sensor.heater
+    - sensor.air_temp
+    - switch.pool
+    - switch.spa
+    - switch.spa_blower
+    - switch.waterfall
+    - switch.lights
+    - climate.pool_heater
+  control: hidden
